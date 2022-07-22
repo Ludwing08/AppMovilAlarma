@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511881679723",
+    "project_id": "appalarma-73f90",
+    "storage_bucket": "appalarma-73f90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511881679723:android:eafcfb00cef90cf1f3b22e",
+        "android_client_info": {
+          "package_name": "dev.android.appalarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511881679723-fon3d428t6vlg93fbdniu8mi1309l9uu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDi5zl7c78sI4OQ1odQcd4KTCMcGhywao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511881679723-fon3d428t6vlg93fbdniu8mi1309l9uu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

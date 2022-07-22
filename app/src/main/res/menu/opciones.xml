@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opDatos"
+        android:title="Mis Datos" />
+    <item
+        android:id="@+id/opEmpresa"
+        android:title="Empresa" />
+    <item
+        android:id="@+id/opCerrarSesion"
+        android:title="Cerrar Sesión" />
+</menu>
