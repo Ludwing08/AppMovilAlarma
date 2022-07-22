@@ -9,7 +9,8 @@
       "client_info": {
         "mobilesdk_app_id": "1:511881679723:android:eafcfb00cef90cf1f3b22e",
         "android_client_info": {
-          "package_name": "dev.android.appalarma"
+          "package_name": "dev.android.appalarma",
+
         }
       },
       "oauth_client": [

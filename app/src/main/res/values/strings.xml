@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppAlarma</string>
+    <string name="msg_token_fmt">Prueba</string>
 </resources>
