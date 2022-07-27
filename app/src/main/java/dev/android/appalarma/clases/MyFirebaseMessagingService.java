@@ -65,7 +65,7 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
     }
 
     @Override
-    public void onNewToken(@NonNull @org.jetbrains.annotations.NotNull String token) {
+    public void onNewToken(String token) {
         Log.d(TAG,"token "+ token);
         sendRegistrationToServer(token);
         super.onNewToken(token);
@@ -91,8 +91,6 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
        NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
        notificationManager.notify(0,notificactionBuilder.build());
-
-
 
     }
 }

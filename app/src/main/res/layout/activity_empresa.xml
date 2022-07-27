@@ -68,10 +68,11 @@
         android:layout_width="410dp"
         android:layout_height="166dp"
         android:layout_marginTop="50dp"
+        android:background="@drawable/imagen_modelo"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/view7"
-        app:srcCompat="@drawable/avatar" />
+        app:srcCompat="@drawable/empreas" />
 
     <TextView
         android:id="@+id/textView13"
